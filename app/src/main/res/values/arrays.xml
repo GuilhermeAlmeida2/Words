@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="words">
+    <item>ASIC</item>
+    <item>Arduino language</item>
+    <item>Assembly</item>
+    <item>ASP.net</item>
+    <item>Basic</item>
+    <item>BASIC</item>
+    <item>BETA</item>
+    <item>BEFLIX</item>
+    <item>C</item>
+    <item>C++</item>
+    <item>C#</item>
+    <item>COBOL</item>
+    <item>Clojure</item>
+    <item>Cascading Style Sheets</item>
+    <item>Cython</item>
+    <item>DBASE</item>
+    <item>DataFlex</item>
+    <item>Delphi</item>
+    <item>Delta COBOL</item>
+    <item>EXAPT</item>
+    <item>Ease</item>
+    <item>EarSketch</item>
+    <item>Editing Generator</item>
+    <item>F</item>
+    <item>F#</item>
+    <item>F*</item>
+    <item>FOCAL</item>
+    <item>G-Portugol</item>
+    <item>GAP</item>
+    <item>GFA BASIC</item>
+    <item>GT.M</item>
+    <item>HAL/S</item>
+    <item>HC-BASIC</item>
+    <item>HPCC</item>
+    <item>Hy</item>
+    <item>Icon</item>
+    <item>Idris</item>
+    <item>Impulse C</item>
+    <item>Inform</item>
+    <item>JScript .NET</item>
+    <item>JSX</item>
+    <item>JavaScript</item>
+    <item>Job Control Language</item>
+    <item>Kawa</item>
+    <item>Kotlin</item>
+    <item>Kojo</item>
+    <item>Klerer-May System</item>
+    <item>Linguagem de controlo</item>
+    <item>Links</item>
+    <item>Linotte</item>
+    <item>Lisaac</item>
+    <item>M#</item>
+    <item>Managed Extensions for C++</item>
+    <item>NASM</item>
+    <item>NESL</item>
+    <item>OCaml</item>
+    <item>Oberon</item>
+    <item>OpenCL</item>
+    <item>PHP</item>
+    <item>Pike</item>
+    <item>Python 3</item>
+    <item>Q</item>
+    <item>Qore</item>
+    <item>R</item>
+    <item>R++</item>
+    <item>Robotc</item>
+    <item>SQL</item>
+    <item>SQL</item>
+    <item>Sass</item>
+    <item>Swift</item>
+    <item>TypeScript</item>
+    <item>Universal Test Specification Language</item>
+    <item>Visual Basic</item>
+    <item>Web</item>
+    <item>X++</item>
+    <item>XBasic</item>
+    <item>Zig</item>
+    <item>Zebra</item>
+
+
+    </string-array>
+</resources>
