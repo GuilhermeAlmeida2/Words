@@ -10,9 +10,10 @@ class DetailActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        val binding = ActivityDetailBinding.inflate(layoutInflater)
+       val  binding= ActivityDetailBinding.inflate(layoutInflater)
+
         setContentView(binding.root)
-        val letterId = "A"
+        val letterId = intent?.extras?.getString("letter").toString()
         val recyclerView = binding.recyclerView
 
         recyclerView.layoutManager = LinearLayoutManager(this)
@@ -21,5 +22,9 @@ class DetailActivity : AppCompatActivity() {
             DividerItemDecoration(this, DividerItemDecoration.VERTICAL)
         )
         title = getString(R.string.detail_prefix) + " " + letterId
+    }
+    companion object{
+        const val LETTER = "letter"
+        const val SEARCH_PREFIX = "https://www.google.com/search?q="
     }
 }
